@@ -15,6 +15,10 @@ Our product will be a replacement for traditional CCTV software that uses image 
 
 [![](http://img.youtube.com/vi/o_Y0MaSpikQ/0.jpg)](http://www.youtube.com/watch?v=o_Y0MaSpikQ "SmartCCTV Project Live Demo")
 
+## UML Diagram
+
+![SmartCCTV UML Diagram](SmartCCTV_UML.jpg)
+
 ## Installing ##
 ### Prerequisites
 
