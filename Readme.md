@@ -11,6 +11,10 @@ Our product will be a replacement for traditional CCTV software that uses image 
      alt="Product Demonstration of UI and live viewer"
      width="350" height="250" />
 
+## YouTube Live Demo
+
+[![](http://img.youtube.com/vi/o_Y0MaSpikQ/0.jpg)](http://www.youtube.com/watch?v=o_Y0MaSpikQ "SmartCCTV Project Live Demo")
+
 ## Installing ##
 ### Prerequisites
 
